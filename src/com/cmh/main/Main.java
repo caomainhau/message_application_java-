@@ -20,7 +20,7 @@ public class Main extends javax.swing.JFrame {
         initComponents();
         init();
     }
-
+//kkk
     private void init() {
         setIconImage(new ImageIcon(getClass().getResource("/com/raven/icon/icon.png")).getImage());
         login.setVisible(true);
