@@ -20,7 +20,7 @@ public class Service {
 
     private static Service instance;
     private Socket client;
-    private final int PORT_NUMBER = 9999;
+    private final int PORT_NUMBER = 13579;
     private final String IP = "localhost";
     private Model_User_Account user;
     private List<Model_File_Sender> fileSender;
